@@ -1,8 +1,10 @@
+import data from "./data.json"
+
 function App() {
   const name = 'Jason'
   const x = false
   const a = 2
-  
+
   return (
     <div className='container'>
       <h1>Hello From React</h1>
